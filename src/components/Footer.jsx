@@ -22,6 +22,7 @@ const Footer = () => {
     { name: "About Us", href: "#about" },
     { name: "Educational Services", href: "#educational" },
     { name: "Digital Marketing", href: "#digital" },
+    { name: "Job Assistance", href: "#job-assistance" },
     { name: "Contact", href: "#contact" },
     { name: "Meet the Developer", href: "https://www.linkedin.com/in/aditya-m-0bb92b110/" },
   ];

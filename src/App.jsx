@@ -5,6 +5,7 @@ import Hero from './components/Hero';
 import About from './components/About';
 import EducationalServices from './components/EducationalServices';
 import DigitalServices from './components/DigitalServices';
+import JobAssistance from './components/JobAssistance';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import ThemeProvider from './context/ThemeContext';
@@ -58,6 +59,7 @@ function App() {
         <About />
         <EducationalServices />
         <DigitalServices />
+        <JobAssistance />
         <Contact />
         <Footer />
       </div>

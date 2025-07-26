@@ -73,8 +73,8 @@ const Hero = () => {
         </motion.p>
 
         <motion.p className="hero-description" variants={itemVariants}>
-          Your trusted partner in educational consultancy and digital transformation. 
-          We guide students through their academic journey while helping businesses 
+          Your trusted partner in educational consultancy and digital transformation.
+          We guide students through their academic journey while helping businesses
           thrive in the digital landscape.
         </motion.p>
 
@@ -107,15 +107,15 @@ const Hero = () => {
 
         <motion.div className="hero-stats" variants={itemVariants}>
           <div className="stat">
-            <h3>500+</h3>
+            <h3>5000+</h3>
             <p>Students Guided</p>
           </div>
           <div className="stat">
-            <h3>100+</h3>
+            <h3>500+</h3>
             <p>Businesses Transformed</p>
           </div>
           <div className="stat">
-            <h3>50+</h3>
+            <h3>100+</h3>
             <p>Success Stories</p>
           </div>
         </motion.div>

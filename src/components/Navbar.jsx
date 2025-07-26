@@ -21,6 +21,7 @@ const Navbar = () => {
     { name: 'About', href: '#about' },
     { name: 'Educational Services', href: '#educational' },
     { name: 'Digital Marketing', href: '#digital' },
+    { name: 'Job Assistance', href: '#job-assistance' }, //added this content , jobassistance component, added in app.jsx , added in footer 
     { name: 'Contact', href: '#contact' }
   ];
 
