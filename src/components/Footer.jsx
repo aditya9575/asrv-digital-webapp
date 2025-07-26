@@ -22,6 +22,7 @@ const Footer = () => {
     { name: "About Us", href: "#about" },
     { name: "Educational Services", href: "#educational" },
     { name: "Digital Marketing", href: "#digital" },
+    { name: "Training & Placement", href: "#training-placement" },
     { name: "Job Assistance", href: "#job-assistance" },
     { name: "Contact", href: "#contact" },
     { name: "Meet the Developer", href: "https://www.linkedin.com/in/aditya-m-0bb92b110/" },
@@ -32,6 +33,8 @@ const Footer = () => {
     "Admissions Consulting",
     "Career Counseling",
     "SEO Services",
+    "Training Programs",
+    "Placement Assistance",
     "PPC Advertising",
     "Social Media Marketing"
   ];
